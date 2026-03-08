@@ -29,16 +29,11 @@ Menus:
       title: Blog
       url: /blogs
       weight: 1
-    - identifier: projects
-      name: Projects
-      title: Projects
-      url: /#projects
-      weight: 2
 
 params:
   title: "Batu Sonmez"
   description: "SRE & DevSecOps Engineer | AI Infrastructure Specialist"
-  favicon: "/images/favicon.png"
+  # favicon: "/images/favicon.png"
   useBootstrapCDN: false
   animate: true
 
@@ -218,7 +213,7 @@ params:
     enable: true
     content: "I'm actively looking for SRE/Production Engineering roles at AI-focused companies. Feel free to reach out!"
     btnName: "Email Me"
-    btnLink: "mailto:batu.sonmez@yahoo.com"
+    btnLink: "mailto:batuhan.sonmez@yahoo.com"
 
   footer:
     recentPosts:
