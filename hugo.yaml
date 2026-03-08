@@ -33,7 +33,7 @@ Menus:
 params:
   title: "Batu Sonmez"
   description: "SRE & DevSecOps Engineer | AI Infrastructure Specialist"
-  favicon: "/images/favicon.svg"
+  favicon: "/images/favicon.png"
   useBootstrapCDN: false
   animate: true
 
