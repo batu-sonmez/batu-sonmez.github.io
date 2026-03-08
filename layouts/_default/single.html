@@ -69,25 +69,17 @@
           </aside>
           {{end}}
 
-          {{ if .Params.socialShare | default .Site.Params.singlePages.socialShare | default true }}
           <aside class="social">
-            <h5>{{ .Site.Params.terms.social | default (i18n "social") }}</h5>
             <div class="social-content">
               <ul class="list-inline">
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://www.linkedin.com/feed/?shareActive=true&text={{ .Params.description }} {{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
-                    <i class="fab fa-linkedin"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:batuhan.sonmez@yahoo.com?subject={{ .Title }}&amp;body={{ .Site.Params.terms.emailText | default (i18n "email_text") }} {{ .Site.Params.hostName }}{{ .Permalink | absURL }}'>
+                  <a href='mailto:batuhan.sonmez@yahoo.com'>
                     <i class="fa fa-envelope"></i>
                   </a>
                 </li>
               </ul>
             </div>
           </aside>
-          {{ end }}
         </div>
       </div>
     </div>
