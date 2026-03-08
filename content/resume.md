@@ -2,6 +2,7 @@
 title: "Resume"
 date: 2026-03-08
 draft: false
+tags: []
 ---
 
 [Download Resume (PDF)](/resume.pdf)
