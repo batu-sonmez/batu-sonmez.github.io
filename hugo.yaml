@@ -74,8 +74,8 @@ params:
     button:
       enable: true
       name: "View Resume"
-      url: "/resume.pdf"
-      download: true
+      url: "/resume/"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
