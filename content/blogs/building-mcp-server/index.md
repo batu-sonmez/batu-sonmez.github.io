@@ -4,7 +4,6 @@ date: 2026-03-08
 draft: false
 description: "A deep dive into building InfraClaude — an MCP server that gives Claude direct access to Kubernetes, Docker, Prometheus, and Terraform through natural language. 41 tools, a 4-tier safety layer, and live demos."
 tags: ["MCP", "Claude Code", "Kubernetes", "TypeScript", "DevOps", "Prometheus", "Grafana"]
-image: /images/projects/infraclaude.png
 ---
 
 ## The Problem: Copy-Paste Infrastructure Debugging
