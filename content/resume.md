@@ -3,8 +3,11 @@ title: "Resume"
 date: 2026-03-08
 draft: false
 tags: []
-image: /images/profile.jpg
 ---
+
+<div style="text-align: center; margin-bottom: 1.5rem;">
+  <img src="/images/profile.jpg" alt="Batu Sonmez" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+</div>
 
 [Download Resume (PDF)](/resume.pdf)
 
